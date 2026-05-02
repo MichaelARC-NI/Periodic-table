@@ -28,4 +28,4 @@ Este proyecto no requiere de un proceso de *build* complejo ni de Node.js. Para 
 
 1. Clona este repositorio:
    ```bash
-   git clone [https://github.com/tu-usuario/tu-repositorio.git](https://github.com/tu-usuario/tu-repositorio.git)
+   git clone https://github.com/MichaelARC-NI/Periodic-table.git
