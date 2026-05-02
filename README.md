@@ -2,7 +2,7 @@
 
 Una visualización inmersiva y en 3D de los 118 elementos químicos de la tabla periódica. Este proyecto permite explorar los elementos a través de diferentes formaciones geométricas e incluye un buscador integrado y soporte para modo claro/oscuro.
 
-🚀 **[Ver Demo en Vivo](https://tu-usuario.github.io/tu-repositorio/)** 
+🚀 **[Ver Demo en Vivo](https://michaelarc-ni.github.io/Periodic-table/)** 
 ## ✨ Características Principales
 
 * **Visualizaciones Múltiples:** Transiciones fluidas entre 4 vistas diferentes:
